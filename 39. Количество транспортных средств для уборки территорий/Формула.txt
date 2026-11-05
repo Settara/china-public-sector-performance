@@ -1,0 +1,1 @@
+=ЕСЛИОШИБКА('C:\Users\chand\Desktop\39. Количество транспортных средств для уборки территорий\[39.xlsx]Sheet1'!B5/'C:\Users\chand\Desktop\1. Освещенность улиц\[province_areas_31_china.xlsx]Area by Year'!B5;"")

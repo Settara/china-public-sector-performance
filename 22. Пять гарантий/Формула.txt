@@ -1,0 +1,1 @@
+=ЕСЛИОШИБКА((('C:\Users\chand\Desktop\22. Пять гарантий\[分省年度数据.xlsx]Sheet1'!B5+'C:\Users\chand\Desktop\22. Пять гарантий\[分省年度数据 (1).xlsx]Sheet1'!B5)/'C:\Users\chand\Desktop\17. Доля сельского населения\[Rural Population.xlsx]Sheet1'!B5)*100;"")

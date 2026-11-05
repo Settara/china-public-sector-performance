@@ -1,0 +1,3 @@
+Показатель 55 = (Per Capita Consumption Expenditure Nationwidet_tt​ - Per Capita Consumption Expenditure Nationwidet−1_{t-1}t−1​) / (Per Capita Disposable Income Nationwidet_tt​ - Per Capita Disposable Income Nationwidet−1_{t-1}t−1​)
+Предельная склонность к потреблению = изменение среднедушевых потребительских расходов / изменение среднедушевого располагаемого дохода
+В числителе берется прирост среднедушевых потребительских расходов, в знаменателе — прирост среднедушевого располагаемого дохода.

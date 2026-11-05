@@ -1,0 +1,5 @@
+Показатель 12 = Number of Teachers and Staff in Regular and Vocational Higher Education / Number of Graduates with Degrees or Diplomas in Institutions of Higher Education
+
+Количество преподавателей и сотрудников в высших учебных заведениях = число преподавателей и сотрудников в высших учебных заведениях / число выпускников высших учебных заведений
+
+Дополнительно умножать на 10000 не нужно, потому что и преподаватели с сотрудниками, и выпускники записаны в таблицах как (10000 persons).

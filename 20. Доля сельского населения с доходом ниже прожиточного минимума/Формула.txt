@@ -1,0 +1,1 @@
+=ЕСЛИОШИБКА('C:\Users\chand\Desktop\20. Доля сельского населения с доходом ниже прожиточного минимума\[20.xlsx]Sheet1'!B5/'C:\Users\chand\Desktop\17. Доля сельского населения\[Rural Population.xlsx]Sheet1'!B5*100;"")

@@ -1,0 +1,1 @@
+=ЕСЛИОШИБКА('C:\Users\chand\Desktop\30. Общий объем выданных публичными библиотеками книг\[30.xlsx]Sheet1'!B5/'C:\Users\chand\Desktop\1. Освещенность улиц\[Resident Population.xlsx]Sheet1'!B5;"")

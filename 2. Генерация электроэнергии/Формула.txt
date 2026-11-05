@@ -1,0 +1,1 @@
+=ЕСЛИОШИБКА('C:\Users\chand\Desktop\2. Генерация электроэнергии\[2.xlsx]Sheet1'!B5/'C:\Users\chand\Desktop\2. Генерация электроэнергии\[Gross Regional Product.xlsx]Sheet1'!B5;"")

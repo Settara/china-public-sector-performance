@@ -1,0 +1,5 @@
+Показатель 31 = (Number of Person-times Visiting Exhibitions in Public Libraries + Number of Person-times Attending Lectures in Public Libraries + Number of Person-times Attending Training Classes in Public Libraries) / численность населения
+
+Количество человек, посетивших выставки, лекции, учебные занятия в публичных библиотеках = (число посещений выставок + число посещений лекций + число посещений учебных занятий в публичных библиотеках) / численность населения
+
+Дополнительно умножать на 10000 не нужно, потому что и количество посещений, и численность населения записаны в таблицах как укрупненные показатели в 10000.

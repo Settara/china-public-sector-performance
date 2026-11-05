@@ -1,0 +1,1 @@
+=ЕСЛИОШИБКА(('C:\Users\chand\Desktop\3. Продовольственная безопасность\[3.xlsx]Sheet1'!B5*100000000)/('C:\Users\chand\Desktop\1. Освещенность улиц\[Resident Population.xlsx]Sheet1'!B5*10000);"")
