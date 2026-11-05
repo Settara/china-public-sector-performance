@@ -4,3 +4,5 @@ node_modules/
 .moran_*/
 .report_review/
 .link14_publication_check/
+.publication_shortpaths/
+psp.zip
